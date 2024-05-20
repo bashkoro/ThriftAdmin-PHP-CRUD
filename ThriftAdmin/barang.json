@@ -1,0 +1,16 @@
+[
+    {
+        "barangid": 12,
+        "jenis_barang": "Rok",
+        "nama": "Rok Panjang",
+        "stock": "30",
+        "harga": "400000"
+    },
+    {
+        "barangid": 12,
+        "jenis_barang": "Rok",
+        "nama": "Rok Panjang",
+        "stock": "30",
+        "harga": "400000"
+    }
+]
